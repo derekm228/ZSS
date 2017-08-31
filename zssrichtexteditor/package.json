@@ -1,0 +1,11 @@
+{
+  "name": "zssrichtexteditor",
+  "version": "1.0.0",
+  "description": "A plugin for ZSSRichTextEditor",
+  "main": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "ios": "3.1.0"
+    }
+   }
+}
